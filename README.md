@@ -17,7 +17,7 @@ I am a dedicated tech professional passionate about securing digital environment
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows Administration, MacOS (Unix)
 
 ### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jen24078&show_icons=true)
+![My GitHub stats](https://gh-stats.com/api?username=jen24078&show_icons=true)
 
 ### Let's Connect!
 - **LinkedIn:** [Brayden Jenson](https://www.linkedin.com/in/brayden-jenson-55ba56344/)
