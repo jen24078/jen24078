@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Brayden!
 
-<!--
-**jen24078/jen24078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student & IT Help Desk Analyst
 
-Here are some ideas to get you started:
+I am a dedicated tech professional passionate about securing digital environments, optimizing systems, and building automated workflows. I enjoy turning complex technical challenges into streamlined, secure solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me:**
+- Studying **Cybersecurity** at BYUI (3.9 GPA) | CompTIA Security+ Certified
+- Currently working as an **IT Help Desk Analyst**, providing tier-1 support and managing network integrity.
+- Actively exploring **workflow automation** using n8n and the Model Context Protocol (MCP).
+- Building comprehensive **self-hosted cloud environments** across my server, laptop, and phone.
+- Experienced in Vulnerability Analysis, Penetration Testing, and reversing malware.
+
+### Tech Stack & Tools
+- **Languages:** Python, SQL, HTML/CSS, JavaScript
+- **Security & Cloud:** Kali Linux, AWS, Google Firebase
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows Administration, MacOS (Unix)
+
+### GitHub Stats
+![Brayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen24078&show_icons=true&theme=radical)
+
+### Let's Connect!
+- **LinkedIn:** [Brayden Jenson](https://www.linkedin.com/in/brayden-jenson-55ba56344/)
+- **Email:** jen24078@byui.edu
